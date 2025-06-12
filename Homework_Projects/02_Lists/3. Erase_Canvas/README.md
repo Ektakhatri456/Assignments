@@ -1,0 +1,2 @@
+## 🧽 Canvas Eraser using Tkinter
+This interactive GUI program simulates an eraser tool on a blue canvas made of grid cells. Using mouse movement and click events, the user can drag a pink eraser across the canvas to turn touched blue cells into white, effectively "erasing" them in real-time. Built using the tkinter library, this project demonstrates event handling, shape manipulation, and continuous canvas updates.
