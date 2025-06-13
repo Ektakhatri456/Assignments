@@ -1,25 +1,25 @@
-## 📱 QR Code Encoder & Decoder
+# 📱 QR Code Encoder & Decoder
 A Python-based project to generate and decode QR codes containing custom messages. This project demonstrates how to use the qrcode, Pillow, and pyzbar libraries for creating and reading QR codes in Python.
 ---
-## 📂 Project Files
+# 📂 Project Files
 File	      Description
 ---------------------------
 encode.py:	Generates a QR code with a custom message and saves it as an image.
 decode.py:	Reads the QR code image and decodes the hidden message.
 
-## 📦 Requirements
+# 📦 Requirements
 Before running the project, install the required dependencies:
      "pip install qrcode[pil] pyzbar pillow"
 
-## 🚀 How to Use
+# 🚀 How to Use
 
-# 1️⃣ Encode a QR Code
+## 1️⃣ Encode a QR Code
 Run the encode.py file to generate a QR code image with your custom message.
         "python encode.py"
         
 The encoded QR code image will be saved in the specified directory as myqrcode.png.
 
-# 2️⃣ Decode a QR Code
+## 2️⃣ Decode a QR Code
 Run the decode.py file to read and display the message encoded in a QR code image.
          "python decode.py"
          
