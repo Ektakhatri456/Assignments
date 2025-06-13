@@ -1,6 +1,7 @@
 # 📱 QR Code Encoder & Decoder
+
 A Python-based project to generate and decode QR codes containing custom messages. This project demonstrates how to use the qrcode, Pillow, and pyzbar libraries for creating and reading QR codes in Python.
----
+
 # 📂 Project Files
 
 File	Description
