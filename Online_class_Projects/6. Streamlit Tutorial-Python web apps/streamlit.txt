@@ -1,0 +1,85 @@
+📌What is Streamlit: 
+
+Streamlit is a python framework that helps us creating web apps with a few lines of code. 
+It allows us to create interactive data driving applications with very little code, making it ideal for data visualization machine learning model deployment and quick prototyping.
+
+
+
+
+📌Key Points:
+
+- No need for front-end coding.
+
+- Reactive - your app updates every time a change is made.
+
+- Easy integration with Python libraries like Pandas, Numpy and Matplotlib.
+
+📌Streamlit Methods:
+
+-st.title(): It is used for the title in application.
+
+-st.header(): It is used for the header in application.
+
+-st.subheader(): It is used for the subheader in application.
+
+-st.write(): It is used for writing something in application.
+
+-st.button(): It is used for creating a button in application.
+
+-st.checkbox(): It is used for creating a checkbox in application, which turns the output in true or false.
+
+-st.silder(): Sliders are useful for numerical inputs within a specified range.
+
+-st.text_input(): The text input box allows users to type in text.
+
+-st.number_input(): The number input box allows users to type in numbers.
+
+------------------------------------------------------------------------------------------------------------------------
+
+▶ For creating data frames and data structures in streamlit, we use pandas library.
+
+pd.DataFrame(): For creating data frames using pandas. 
+
+-st.dataframe(): For creating data frames in the app.
+
+-st.table(): For displaying the data in table form.
+
+--------------------------------------------Displaying JSON Data Structures using Dictionaries:----------------------------------------------------------------------------- 
+
+-st.json(): For displaying JSON data in the app.
+
+---------------------------------------------Widgets in streamlit--------------------------------------------------------------------
+
+-st.selectbox()
+
+----------------------------------------------Data Visualization-------------------------------------------------------------------
+
+-st.line_chart(): for creating line chart in streamlit app.
+
+-st.bar_chart(): for creating bar chart in streamlit app.
+
+-st.area_chart(): for creating area chart in streamlit app.
+
+--In streamlit, we use advanced and customizable visualizations we can integrate external libraries like matplotlib or plotly,
+so we use "import plotly.express as px" and "import matplotlib.pyplot as plt".
+
+----------------------------------------------Layout and Themeing in Streamlit------------------------------------------------------
+
+--We can customize the layout of our Streamlit application and apply DMS to enchance the visual app. Streamlit provides various tools to 
+control the arrangements of app components and customize its look and feel.
+
+📌Expander widgets in Streamlit--
+
+--Expander widgets can be used to hide or show content dynamically and this is useful for creating more compact layouts.
+--Expander creates a collapse tool section that can expand or collapse or when clicked.
+
+📌Sidebars in streamlit
+
+--Siderbars can be used for navigation.
+
+📌Themes in streamlit
+
+Streamlit allows us to set a theme directly in our apps configuration file  or through the app settings.
+
+
+
