@@ -2,10 +2,11 @@
 A Python-based project to generate and decode QR codes containing custom messages. This project demonstrates how to use the qrcode, Pillow, and pyzbar libraries for creating and reading QR codes in Python.
 ---
 # 📂 Project Files
-File	      Description
+
+File	Description
 ---------------------------
-encode.py:	Generates a QR code with a custom message and saves it as an image.
-decode.py:	Reads the QR code image and decodes the hidden message.
+📌encode.py:	Generates a QR code with a custom message and saves it as an image.
+📌decode.py:	Reads the QR code image and decodes the hidden message.
 
 # 📦 Requirements
 Before running the project, install the required dependencies:
