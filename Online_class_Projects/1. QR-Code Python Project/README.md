@@ -7,6 +7,7 @@ A Python-based project to generate and decode QR codes containing custom message
 File	Description
 ---------------------------
 📌encode.py:	Generates a QR code with a custom message and saves it as an image.
+
 📌decode.py:	Reads the QR code image and decodes the hidden message.
 
 # 📦 Requirements
