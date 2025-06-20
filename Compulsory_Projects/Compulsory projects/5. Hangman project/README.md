@@ -1,4 +1,5 @@
-🎲 Hangman Word Guessing Game
+# 🎲 Hangman Word Guessing Game
+
 A classic Python console game where you try to guess a hidden word one letter at a time before running out of lives.
 
 📌 How it works:
