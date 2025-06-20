@@ -13,10 +13,11 @@ A simple interactive Python program where you can play Rock, Paper, Scissors aga
 
 • Otherwise, it checks winning conditions:
 
-• Rock crushes Scissors
 
-• Scissors cuts Paper
+  - Rock crushes Scissors
 
-• Paper covers Rock
+  - Scissors cuts Paper
+
+  - Paper covers Rock
 
 • Displays whether you won, lost, or tied.
