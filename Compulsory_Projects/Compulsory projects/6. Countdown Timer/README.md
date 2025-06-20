@@ -2,7 +2,7 @@
 
 A simple console-based countdown timer built in Python. The program lets the user enter a specific time in seconds and counts down to zero, updating the time every second.
 
-📌 How it works:
+## 📌 How it works:
 
 - User inputs the countdown duration in seconds.
 
